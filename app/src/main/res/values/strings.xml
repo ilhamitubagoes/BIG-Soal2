@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Soal2</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_logout">Logout</string>
+    <string name="title_activity_login">Login</string>
+    <string name="prompt_number">Number Phone</string>
+    <string name="action_log_in">Log In</string>
+    <string name="action_verify">Verifikasi</string>
+    <string name="action_change_number">Ubah Nomor HP</string>
+    <string name="OTP_LABEL">Masukkan nomor OTP yang didapatkan dari SMS anda</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="label_time_up">Waktu Habis, Silahkan masukkan nomor HP anda lagi</string>
+    <string name="title_profile_submit">Isi Data Profil</string>
+    <string name="prompt_adderss">Alamat</string>
+    <string name="prompt_email">Email</string>
+    <string name="label_save">Simpan</string>
+    <string name="label_notifikasi">Notifikasi</string>
+    <string name="name_nadia">dr.Nadia A Wulansar, Sp.PD, KMHM.</string>
+    <string name="position_name">Spesialis Penyakit Dalam</string>
+    <string name="label_date_chat">5 Januari 2020</string>
+    <string name="label_click_detail">Klik untuk lihat detail</string>
+</resources>
